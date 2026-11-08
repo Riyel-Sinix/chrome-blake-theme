@@ -1,0 +1,114 @@
+{
+  "manifest_version": 3,
+  "name": "Songs of Innocence — 天真之歌",
+  "version": "1.0.0",
+  "description": "水彩羊皮纸、新月光芒与玫瑰田园：仿《天真与经验之歌》插画风的 Chrome 主题。",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_inactive": "images/theme_frame_inactive.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/theme_ntp_background.png",
+      "theme_ntp_attribution": "images/theme_ntp_attribution.png"
+    },
+    "colors": {
+      "frame": [
+        178,
+        202,
+        220
+      ],
+      "frame_inactive": [
+        206,
+        216,
+        222
+      ],
+      "toolbar": [
+        248,
+        239,
+        216
+      ],
+      "tab_text": [
+        74,
+        58,
+        42
+      ],
+      "tab_background_text": [
+        52,
+        70,
+        86
+      ],
+      "tab_background_text_inactive": [
+        96,
+        108,
+        118
+      ],
+      "bookmark_text": [
+        90,
+        70,
+        50
+      ],
+      "toolbar_text": [
+        74,
+        58,
+        42
+      ],
+      "toolbar_button_icon": [
+        122,
+        88,
+        62
+      ],
+      "omnibox_background": [
+        251,
+        245,
+        230
+      ],
+      "omnibox_text": [
+        59,
+        46,
+        34
+      ],
+      "ntp_background": [
+        243,
+        231,
+        203
+      ],
+      "ntp_text": [
+        74,
+        58,
+        42
+      ],
+      "ntp_link": [
+        150,
+        74,
+        58
+      ],
+      "ntp_header": [
+        196,
+        128,
+        104
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0.0
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.08,
+        0.35,
+        0.4
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}
